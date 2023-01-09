@@ -39,7 +39,7 @@ module.exports =
 		"SensorML" : require('./SensorML/SensorML.js'),
 		"SLD" : require('./SLD/SLD.js'),
 		"SPS" : require('./SPS/SPS.js'),
-		"SOS" : require('./SOS/SOS.js'),
+/*		"SOS" : require('./SOS/SOS.js'),*/
 		"SWE" : require('./SWE/SWE.js'),
 		"SWES" : require('./SWES/SWES.js'),
 		"TJS" : require('./TJS/TJS.js'),
