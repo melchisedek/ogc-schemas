@@ -1,3 +1,14 @@
+fork of https://github.com/ogc-schemas/ogc-schemas
+
+## Changes
+* add support for EOMPOM 1.1
+* fix SOS 1.0.0 by removing duplicated namespaces
+
+### TODO
+* remove unnecessary files from the project
+ * eclipse project stuff
+* rethink strange naming of GML 3.2 instead of GML 3.2.1
+
 ogc-schemas
 ===========
 
@@ -41,6 +52,7 @@ Supports the following schemas:
 * `CSW_2_0_2`
   * `DC_1_1`
   * `DCT`
+* `EOMPOM_1_1`
 * `EOP_1_0`
 * `EOP_ATM_1_0`
 * `EOP_OPT_1_0`
